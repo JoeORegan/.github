@@ -8,6 +8,7 @@ JavaScript:
 - [Antibody](https://joeoregan.github.io/JS-Antibody/)
 - [Connect 5](https://joeoregan.github.io/NodeJS-AppsAndTutorials/Connect5Local)
 - [Flappy Bird](https://joeoregan.github.io/js-flappy-bird/)
+- [Space Quest](https://joeoregan.github.io/SpaceQuestJS/)
 - [Tic-Tac-Toe](https://joeoregan.github.io/NodeJS-AppsAndTutorials/TicTacToeJS/)
 
 Unity 2D:
