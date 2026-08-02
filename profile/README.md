@@ -2,6 +2,7 @@
 
 Playable Games:
 
+- [Antibody JavaScript](https://joeoregan.github.io/JS-Antibody/)
 - [Flappy Bird JavaScript](https://joeoregan.github.io/js-flappy-bird/)
 
 <!--
