@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Playable Games:
+
+- [Flappy Bird JavaScript](https://joeoregan.github.io/js-flappy-bird/)
+
 <!--
 
 **Here are some ideas to get you started:**
