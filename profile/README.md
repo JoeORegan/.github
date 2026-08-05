@@ -6,9 +6,10 @@ Some playable games from tutorials and college courses I've worked on:
 
 JavaScript: 
 - [Antibody](https://joeoregan.github.io/JS-Antibody/)
+- [Flappy Bird](https://joeoregan.github.io/JS-FlappyBird/)
+- [Space Quest](https://joeoregan.github.io/JS-SpaceQuest/)
+- [Space Game](https://joeoregan.github.io/JS-SpaceGame/)
 - [Connect 5](https://joeoregan.github.io/NodeJS-AppsAndTutorials/Connect5Local)
-- [Flappy Bird](https://joeoregan.github.io/js-flappy-bird/)
-- [Space Quest](https://joeoregan.github.io/SpaceQuestJS/)
 - [Tic-Tac-Toe](https://joeoregan.github.io/NodeJS-AppsAndTutorials/TicTacToeJS/)
 
 Unity 2D:
