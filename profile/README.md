@@ -9,6 +9,7 @@ JavaScript:
 - [Flappy Bird](https://joeoregan.github.io/JS-FlappyBird/)
 - [Space Quest](https://joeoregan.github.io/JS-SpaceQuest/)
 - [Space Game](https://joeoregan.github.io/JS-SpaceGame/)
+- [Ninja Game](https://joeoregan.github.io/JS-NinjaGame/)
 - [Connect 5](https://joeoregan.github.io/NodeJS-AppsAndTutorials/Connect5Local)
 - [Tic-Tac-Toe](https://joeoregan.github.io/NodeJS-AppsAndTutorials/TicTacToeJS/)
 
