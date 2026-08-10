@@ -12,6 +12,7 @@ JavaScript:
 - [Ninja Game](https://joeoregan.github.io/JS-NinjaGame/)
 - [Connect 5](https://joeoregan.github.io/NodeJS-AppsAndTutorials/Connect5Local)
 - [Tic-Tac-Toe](https://joeoregan.github.io/NodeJS-AppsAndTutorials/TicTacToeJS/)
+- [Tic-Tac-Toe (React)](https://joeoregan.github.io/React-TicTacToe/)
 - [Space Invaders](https://joeoregan.github.io/JS-SpaceInvaders/)
 
 Unity 2D:
