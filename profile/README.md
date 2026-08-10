@@ -12,16 +12,18 @@ JavaScript:
 - [Ninja Game](https://joeoregan.github.io/JS-NinjaGame/)
 - [Connect 5](https://joeoregan.github.io/NodeJS-AppsAndTutorials/Connect5Local)
 - [Tic-Tac-Toe](https://joeoregan.github.io/NodeJS-AppsAndTutorials/TicTacToeJS/)
+- [Space Invaders](https://joeoregan.github.io/JS-SpaceInvaders/)
 
 Unity 2D:
 - [UFO](https://joeoregan.github.io/unity-games/Unity/2d-ufo.html)
 - [Roguelike](https://joeoregan.github.io/unity-games/Unity/2d-roguelike.html)
 
 Unity 3D:
+- [Roll-A-Ball (Modified)](https://joeoregan.github.io/Unity-RollABall/)
+- [Space Shooter (Extended)](https://joeoregan.github.io/Unity-SpaceShooter/)
+
 - [Roll-A-Ball (Original)](https://joeoregan.github.io/unity-games/Unity/roll-a-ball.html)
-- [Roll-A-Ball (Modified)](https://joeoregan.github.io/unity-games/Unity/roll-a-ball-modified.html)
 - [Space Shooter (Original)](https://joeoregan.github.io/unity-games/Unity/space-shooter.html)
-- [Space Shooter (Extended)](https://joeoregan.github.io/unity-games/Unity/space-shooter-extended.html)
 - [Tanks](https://joeoregan.github.io/unity-games/Unity/tanks-original.html)
 - [Nightmares](https://joeoregan.github.io/unity-games/Unity/nightmares.html)
 - [Roll-A-Ball v2](https://joeoregan.github.io/unity-games/Unity/roll-a-ball-v2.html)
