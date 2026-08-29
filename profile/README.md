@@ -15,6 +15,10 @@ JavaScript:
 - [Tic-Tac-Toe (React)](https://joeoregan.github.io/React-TicTacToe/)
 - [Space Invaders](https://joeoregan.github.io/JS-SpaceInvaders/)
 
+Construct 2:
+- Hospital Panic: First game created as part of Games Design Degree using Scirra Construct 2.
+    - [App on GitHub Pages](https://joeaoregan.github.io/LIT-Yr2-DigitalGameDesign/)
+
 Unity 2D:
 - [UFO](https://joeoregan.github.io/unity-games/Unity/2d-ufo.html)
 - [Roguelike](https://joeoregan.github.io/unity-games/Unity/2d-roguelike.html)
