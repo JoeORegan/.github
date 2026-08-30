@@ -22,6 +22,10 @@ App Inventor (HTML 5 Ports)
 Construct 2:
 - Hospital Panic
     - [App on GitHub Pages](https://joeaoregan.github.io/LIT-Yr2-DigitalGameDesign/)
+ 
+SDL 2.0:
+- [Alien Attack](https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming)
+    - [Play on GitHub Pages](https://joeaoregan.github.io/LIT-Yr3-AdvancedDigitalGameProgramming/play/)
 
 Unity 2D:
 - [UFO](https://joeoregan.github.io/unity-games/Unity/2d-ufo.html)
