@@ -1,19 +1,33 @@
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)](https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines "LIT: Zombie Apocalypse Unity Game") 
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white) <!-- Link to DKIT Project -->
+[![Cocos2d-x](https://img.shields.io/badge/Cocos2dx-323232?style=flat&logo=cocos&logoColor=white)](https://github.com/joeaoregan/cocos2dx-spacegame "LIT: C++ / Cocos2d-x Space Game") 
+[![SDL2](https://img.shields.io/badge/SDL2-00599C?style=flat&logo=libsdl&logoColor=white)](https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming "LIT: Advanced Digital Game Programming - C++ / SDL2 Game") 
+[![Meta Quest](https://img.shields.io/badge/Meta_Quest-0668E1?style=flat&logo=meta&logoColor=white) 
+![VR](https://img.shields.io/badge/VR_Development-252525?style=flat&logo=oculus&logoColor=white)](https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines "LIT: Digital Game Engines - Unity / C# Game with VR Level") 
+[![RayLib](https://img.shields.io/badge/RayLib-252525?style=flat&logo=r&logoColor=white)](https://github.com/joeaoregan/DKIT-Software1-CA1 "DKIT: Software Engineering - C++ / RayLib Game")
+
 ## Hi there 👋
 
-Some playable games from tutorials and college courses I've worked on:
+Some playable games from tutorials and college courses I've worked on in college, etc.:
+
+<p align="center">
+  <a href="https://joeoregan.github.io/JS-Antibody/game/"><img src="logo_antibody.png" alt="Antibody" height="150" hspace="20"></a>
+  <a href="https://joeoregan.itch.io/za1"><img src="logo_zombie.png" alt="Zombie Apocalypse" height="150" hspace="20"></a>
+  <a href="https://joeoregan.github.io/JS-SpaceQuest/"><img src="logo_space_quest.png" alt="Space Quest" height="150" hspace="20"></a>
+</p>
 
 ## GitHub Pages
 
-JavaScript: 
-- [Antibody](https://joeoregan.github.io/JS-Antibody/)
-- [Flappy Bird](https://joeoregan.github.io/JS-FlappyBird/)
-- [Space Quest](https://joeoregan.github.io/JS-SpaceQuest/)
-- [Space Game](https://joeoregan.github.io/JS-SpaceGame/)
-- [Ninja Game](https://joeoregan.github.io/JS-NinjaGame/)
-- [Connect 5](https://joeoregan.github.io/NodeJS-AppsAndTutorials/Connect5Local)
-- [Tic-Tac-Toe](https://joeoregan.github.io/NodeJS-AppsAndTutorials/TicTacToeJS/)
-- [Tic-Tac-Toe (React)](https://joeoregan.github.io/React-TicTacToe/)
-- [Space Invaders](https://joeoregan.github.io/JS-SpaceInvaders/)
+JavaScript:
+- [Antibody](https://github.com/JoeORegan/JS-Antibody): JavaScript browser game project.
+- [Flappy Bird](https://github.com/JoeORegan/JS-FlappyBird): JavaScript Flappy Bird clone.
+- [Space Quest](https://github.com/JoeORegan/JS-SpaceQuest): JavaScript space-themed game project.
+- [Space Game](https://github.com/JoeORegan/JS-SpaceGame): JavaScript space game tutorial project.
+- [Ninja Game](https://github.com/JoeORegan/JS-NinjaGame): JavaScript side-scrolling ninja game.
+- [Connect 5](https://github.com/JoeORegan/NodeJS-AppsAndTutorials): Connect 5 app from Node.js tutorials collection.
+- [Tic-Tac-Toe](https://github.com/JoeORegan/NodeJS-AppsAndTutorials): JavaScript Tic-Tac-Toe app from Node.js tutorials collection.
+- [Tic-Tac-Toe (React)](https://github.com/JoeORegan/React-TicTacToe): React Tic-Tac-Toe tutorial app.
+- [Space Invaders](https://github.com/JoeORegan/JS-SpaceInvaders): JavaScript Space Invaders clone.
 
 App Inventor (HTML 5 Ports)
 - Tower Defence
@@ -36,6 +50,9 @@ Unity 3D (Modified):
 - [Space Shooter (Extended)](https://joeoregan.github.io/Unity-SpaceShooter/)
 
 Unity 3D (Original):
+- Zombie Apocalypse
+  - [Level 1](https://joeoregan.itch.io/za1)
+  - [Level 2](https://joeoregan.itch.io/za2)
 - [Roll-A-Ball (Original)](https://joeoregan.github.io/unity-games/Unity/roll-a-ball.html)
 - [Space Shooter (Original)](https://joeoregan.github.io/unity-games/Unity/space-shooter.html)
 - [Tanks](https://joeoregan.github.io/unity-games/Unity/tanks-original.html)
