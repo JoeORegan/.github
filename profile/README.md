@@ -11,12 +11,13 @@
 Some playable games from tutorials and college courses I've worked on in college, etc.:
 
 <p align="center">
-  <a href="https://joeoregan.github.io/JS-Antibody/game/"><img src="logo_antibody.png" alt="Antibody" height="150" hspace="20"></a>
-  <a href="https://joeoregan.itch.io/za1"><img src="logo_zombie.png" alt="Zombie Apocalypse" height="150" hspace="20"></a>
-  <a href="https://joeoregan.github.io/JS-SpaceQuest/"><img src="logo_space_quest.png" alt="Space Quest" height="150" hspace="20"></a>
+  <a href="https://joeoregan.github.io/JS-Antibody/game/"><img src="logo_antibody.png" alt="Antibody" height="180" hspace="20"></a>
+  <a href="https://joeoregan.itch.io/za1"><img src="logo_zombie.png" alt="Zombie Apocalypse" height="180" hspace="20"></a>
+  <a href="https://joeoregan.github.io/JS-SpaceQuest/"><img src="logo_space_quest.png" alt="Space Quest" height="180" hspace="20"></a>
 </p>
 
 <p align="center">  
+  <a href="https://joeaoregan.github.io/LIT-Yr2-DigitalGameDesign/game/"><img src="logo_hospital_panic.png" alt="Hospital Panic" height="120" hspace="20"></a>
   <a href="https://joeaoregan.github.io/LIT-Yr2-HCID/tower-defence/"><img src="logo_tower_defence.png" alt="Tower Defence" height="120" hspace="20"></a>
 </p>
 
