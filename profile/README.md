@@ -16,6 +16,10 @@ Some playable games from tutorials and college courses I've worked on in college
   <a href="https://joeoregan.github.io/JS-SpaceQuest/"><img src="logo_space_quest.png" alt="Space Quest" height="150" hspace="20"></a>
 </p>
 
+<p align="center">  
+  <a href="https://joeaoregan.github.io/LIT-Yr2-HCID/tower-defence/"><img src="logo_tower_defence.png" alt="Tower Defence" height="120" hspace="20"></a>
+</p>
+
 ## GitHub Pages
 
 JavaScript:
