@@ -17,6 +17,7 @@ Some playable games from tutorials and college courses I've worked on in college
 </p>
 
 <p align="center">  
+  <a href="https://joeaoregan.github.io/LIT-Yr3-AdvancedDigitalGameProgramming/play/"><img src="logo_alien_attack.png" alt="Alien Attack" height="120" hspace="20"></a>
   <a href="https://joeaoregan.github.io/LIT-Yr2-DigitalGameDesign/game/"><img src="logo_hospital_panic.png" alt="Hospital Panic" height="120" hspace="20"></a>
   <a href="https://joeaoregan.github.io/LIT-Yr2-HCID/tower-defence/"><img src="logo_tower_defence.png" alt="Tower Defence" height="120" hspace="20"></a>
 </p>
