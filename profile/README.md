@@ -6,7 +6,10 @@
 ![VR](https://img.shields.io/badge/VR_Development-252525?style=flat&logo=oculus&logoColor=white)](https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines "LIT: Digital Game Engines - Unity / C# Game with VR Level") 
 [![RayLib](https://img.shields.io/badge/RayLib-252525?style=flat&logo=r&logoColor=white)](https://github.com/joeaoregan/DKIT-Software1-CA1 "DKIT: Software Engineering - C++ / RayLib Game")
 
-![Page Logo](logo_jor.svg)
+<!-- ![Page Logo](logo_jor.svg) -->
+<p align="center">
+  <img src="logo_jor.svg" alt="Antibody" height="100">
+</p>
 
 Some playable games from tutorials and college courses I've worked on in college, etc.:
 
