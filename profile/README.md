@@ -29,8 +29,8 @@ Some playable games from tutorials and college courses I've worked on in college
 
 JavaScript:
 - [<span><img src="svg/antibodyjs_2.svg" height="22px" /></span>](https://github.com/JoeORegan/JS-Antibody): AnibodyJS a JavaScript browser game project.
-- [Flappy Bird](https://github.com/JoeORegan/JS-FlappyBird): JavaScript Flappy Bird clone.
 - [<span><img src="svg/space_quest_logo_ship_1.svg" height="20px" /></span>](https://github.com/JoeORegan/JS-SpaceQuest): Space Quest a JavaScript space-themed game project.
+- [Flappy Bird](https://github.com/JoeORegan/JS-FlappyBird): JavaScript Flappy Bird clone.
 - [Space Game](https://github.com/JoeORegan/JS-SpaceGame): JavaScript space game tutorial project.
 - [Ninja Game](https://github.com/JoeORegan/JS-NinjaGame): JavaScript side-scrolling ninja game.
 - [Connect 5](https://github.com/JoeORegan/NodeJS-AppsAndTutorials): Connect 5 app from Node.js tutorials collection.
