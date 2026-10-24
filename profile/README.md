@@ -51,7 +51,7 @@ Construct 2:
     - [App on GitHub Pages](https://joeaoregan.github.io/LIT-Yr2-DigitalGameDesign/)
  
 SDL 2.0:
-- [Alien Attack](https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming)
+- [<span style="margin: 50 0 0; position: relative; top: 7px;"><img src="svg/alien_attack.svg" height="20px" /></span>](https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming) - Alien Attack: C++, SDL2 game ported to JavaScript.
     - [Play on GitHub Pages](https://joeaoregan.github.io/LIT-Yr3-AdvancedDigitalGameProgramming/play/)
 
 Unity 2D:
